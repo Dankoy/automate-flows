@@ -1,5 +1,7 @@
 # Description
 
+[ver.126]
+
 Delete files in any folder older than some period of time. Flow could be started by another flow and pass payload with directory and retention in days. Or just started normally from start button.
 
 Uses file as source of data. Default is /Documents/automate_flow_data/retention_folders.json. If it is not found, then asks to pick one.

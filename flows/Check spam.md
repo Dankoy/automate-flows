@@ -1,5 +1,7 @@
 # Description
 
+[ver.391]
+
 Check if incoming phone is considered spam. Skip phones from contacts.
 
 Uses broadcast event for network checking in separate flow. If no network is detected then skips query.
