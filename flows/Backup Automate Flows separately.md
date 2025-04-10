@@ -8,8 +8,10 @@ Additionally creates separate file with description.
 
 Also exports PNG file for every flow. Thank to author of [this](https://llamalab.com/automate/community/flows/11023)
 
-Example flow file - Backup Automate Flows separately [ver.171].flo
-Example description file - Backup Automate Flows separately [ver.171].md
+[Example flow file](Backup Automate Flows separately.flo)
+[Example description file](Backup Automate Flows separately.md)
+[Example flow png](Backup Automate Flows separately.png)
+
 
 Uses file as source of data. Default is /Documents/automate_flow_data/automate_backup.json. If it is not found, then asks to pick one.
 
@@ -22,4 +24,4 @@ Uses file as source of data. Default is /Documents/automate_flow_data/automate_b
   "dir": "Backup-Sync/automate/flows"
 }
 
-2. File picker automate [flow](/File%20picker%20[44][2025-02-22][ver.82].md)
+2. File picker automate [flow](File%20picker.md)

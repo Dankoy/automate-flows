@@ -31,4 +31,4 @@ Deletes files and folders. If folder is older than retention day, then it is goi
   }
 ]
 
-2. File picker automate [flow](/File%20picker%20[44][2025-02-22][ver.82].md)
+2. File picker automate [flow](File%20picker.md)
