@@ -1,6 +1,6 @@
 # Description
 
-[ver.59]
+[ver.60]
 
 Copy files and directories from source directory to destination directory. File extension filters could be applied. 
 
