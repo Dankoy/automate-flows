@@ -1,6 +1,6 @@
 # Description
 
-[ver.444]
+[ver.462]
 
 Check if incoming phone is considered spam. Skip phones from contacts.
 
