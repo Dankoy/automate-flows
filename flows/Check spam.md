@@ -1,6 +1,6 @@
 # Description
 
-[ver.465]
+[ver.503]
 
 Check if incoming phone is considered spam. Skip phones from contacts.
 
@@ -9,6 +9,8 @@ Uses broadcast event for network checking in separate flow. If no network is det
 Query callfilter.app and spravportal.ru. After query creates notifications with results. 
  
 Also queries фильтр-звонков.рф and makes decision to reject call or allow. 
+
+Repeated calls logic implemented. 
 
 # Limitations
 
