@@ -1,6 +1,6 @@
 # Description
 
-[ver.146]
+[ver.151]
 
 Enables battery saver mode in period of picked start time and end time.
 
