@@ -15,4 +15,4 @@ Keeps volume low to save your ears.
   }
 }
 
-2. File picker automate [flow](File%20picker.md)
+2. File picker automate [flow](../File%20picker)

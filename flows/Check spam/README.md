@@ -18,4 +18,4 @@ Repeated calls logic implemented.
 
 # Dependencies
 
-1. Net Check automate [flow](Net%20Check.md).
+1. Net Check automate [flow](../Net%20Check).
