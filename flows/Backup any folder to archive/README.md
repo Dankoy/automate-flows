@@ -1,6 +1,6 @@
 # Description
 
-[ver.49]
+[ver.52]
 
 Backups any folder to archive with any extension.
 
