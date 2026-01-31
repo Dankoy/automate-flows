@@ -17,3 +17,4 @@ Contains collection of my [automate](https://llamalab.com/automate/) flows for a
 12. [Scheduler](./flows/Scheduler)
 13. [Sound volume manager](./flows/Sound%20volume%20manager)
 14. [Emperor protects](./flows/The%20Emperor%20protects)
+15. [App logger](./flows/App%20logger)
