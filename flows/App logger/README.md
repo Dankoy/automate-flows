@@ -1,6 +1,6 @@
 # Description
 
-[ver.86]
+[ver.262]
 
 Log applications screen start and stop time. Also logs device locks and unlocks.
 
@@ -13,6 +13,7 @@ Changes from original:
 1. Refactored blocks positioning
 2. Added folder picker
 3. Added variables for target directory and files in it
+4. Added delta logging between start and stop as user choice
 
 # Dependencies
 
