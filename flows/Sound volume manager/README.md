@@ -1,8 +1,10 @@
 # Description
 
-[ver.149]
+[ver.181]
 
 Keeps volume low to save your ears.
+
+Implemented feature to change volume in runtime without changes in file.
 
 # Dependencies
 
