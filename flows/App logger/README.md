@@ -1,6 +1,6 @@
 # Description
 
-[ver.153]
+[ver.164]
 
 Log applications screen start and stop time. Also logs device locks and unlocks.
 
@@ -10,13 +10,14 @@ Based on [flow](https://llamalab.com/automate/community/flows/51931)
 
 Changes from original:
 
-1. Refactored blocks positioning
+1. Refactored logic to write events only once for any activity with start and end time.
 2. Added folder picker
 3. Added variables for target directory and files in it
 4. Added delta logging between start and stop
 5. Added limit logging for logs exceeded limit
 6. Fixed empty end time when first device lock is made after flow start
 7. Fixed log with 'to be ignored'
+8. Events that are happened in locked state are written correctly, not only stop time, but full log event.
 
 # Dependencies
 
