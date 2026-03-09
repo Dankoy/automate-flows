@@ -1,6 +1,6 @@
 # Description
 
-[ver.189]
+[ver.312]
 
 Log applications screen start and stop time. Also logs device locks and unlocks.
 
@@ -18,6 +18,7 @@ Changes from original:
 6. Fixed empty end time when first device lock is made after flow start
 7. Fixed log with 'to be ignored'
 8. Events that are happened in locked state are written correctly, not only stop time, but full log event.
+9. Added daily statistics logging at the end of the day. Flow restart breaks statistics.
 
 # Dependencies
 
