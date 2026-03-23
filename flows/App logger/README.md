@@ -1,6 +1,6 @@
 # Description
 
-[ver.314]
+[ver.331]
 
 Log applications screen start and stop time. Also logs device locks and unlocks.
 
