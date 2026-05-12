@@ -1,6 +1,6 @@
 # Description
 
-[ver.549]
+[ver.684]
 
 Check if incoming phone is considered spam. Skip phones from contacts.
 
@@ -12,9 +12,11 @@ Also queries фильтр-звонков.рф and makes decision to reject call 
 
 Repeated calls logic implemented. 
 
+Added persistent notification to check any phone number from input.
+
 # Limitations
 
-- Call screening response should be in the same fiber (thread) as a call screening request. 
+- Call screening response should be in the same fiber (thread) as a call screening request.
 
 # Dependencies
 
