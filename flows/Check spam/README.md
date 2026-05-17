@@ -6,13 +6,19 @@ Check if incoming phone is considered spam. Skip phones from contacts.
 
 Uses broadcast event for network checking in separate flow. If no network is detected then skips query.
 
-Query callfilter.app and spravportal.ru. After query creates notifications with results. 
- 
-Also queries фильтр-звонков.рф and makes decision to reject call or allow. 
+## Features
 
-Repeated calls logic implemented. 
+1) Check incoming phones for spam and shows results in notifications.
+2) Allow repeated calls in time period of 3 minutes, even if it was blocked first time.
+3) Persistent notification to check any number for spam.
+4) Allow is default option in case of unreachable network or errors in external service.
+5) Phones from contacts are skipped from checking and always allowed.
 
-Added persistent notification to check any phone number from input.
+## Integrations
+
+1) callfilter.app as webview. 
+2) spravportal.ru as webview.
+3) фильтр-звонков.рф for decision making to allow or reject.
 
 # Limitations
 
